@@ -1,0 +1,33 @@
+.result {
+    background-color: lightgray;
+    border: 1px solid black;
+    width:81%;
+    height: 48px;
+    font-size: 20px;
+    text-align: right;
+}
+.btns-container {
+    width: 90%;
+}
+
+.btn {
+    width: 22%;
+    height: 36px;
+    font-size:18px;
+    cursor:pointer;
+}
+
+.lightgreen {
+    background-color:lightgreen;
+    color: brown;
+}
+
+.darckgreen {
+    background-color: darckgreen;
+    color: white;
+}
+
+.black {
+    background-color: black;
+    color: red;
+}
